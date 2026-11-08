@@ -48,7 +48,7 @@
 
   <!-- ================= TOP TELEMETRY BAR ================= -->
   <!-- Unit Badge -->
-  <rect x="36" y="24" width="70" height="18" rx="2" fill="#E23B2A" />
+  <rect x="36" y="24" width="70" height="18" rx="2" fill="#CF222E" />
   <text class="mono" x="71" y="37" text-anchor="middle" font-size="10" font-weight="800" fill="#FFFFFF" letter-spacing="1.5">EVA-02</text>
 
   <!-- Classification Label -->
