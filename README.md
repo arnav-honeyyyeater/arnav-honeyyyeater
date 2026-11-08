@@ -4,7 +4,7 @@
 
 <br />
 
-I'm an undergraduate studying **Computer Science &amp; Data Science** at **CHRIST University, Pune**. I build applied AI systems, autonomous workflows, and modern web applications with a focus on reliable architecture and craft.
+I am an undergraduate studying **Computer Science &amp; Data Science** at **CHRIST University, Pune**. I build applied AI systems, autonomous workflows, and modern web applications with a focus on reliable architecture and craft.
 
 ---
 
@@ -20,7 +20,7 @@ I'm an undergraduate studying **Computer Science &amp; Data Science** at **CHRIS
 
 ### Stack
 
-`TypeScript` · `Next.js` · `React` · `Tailwind CSS` · `Python` · `Supabase` · `PostgreSQL`
+`TypeScript` / `Next.js` / `React` / `Tailwind CSS` / `Python` / `Supabase` / `PostgreSQL`
 
 ---
 
