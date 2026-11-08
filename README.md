@@ -1,130 +1,58 @@
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/main/assets/header_fancyspy_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/main/assets/header_fancyspy_light.svg">
-  <img alt="FancySpy // Eva Unit-02 Code Diver" src="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/main/assets/header_fancyspy_dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/main/assets/header_fancyspy_light.svg" alt="FancySpy — Arnav Sharma. Creative development, with a little character." width="1200">
 </picture>
 
-<br />
+<br>
 
-### "Enjoying the Diving in DA Code!!"
+### Thoughtful interfaces. A little personality.
 
-**Pune, India (UTC +05:30)** • **CHRIST University CS & Data Science** • **Status: Diving Deep**
+I'm **Arnav Sharma**, a Computer Science & Data Science student at **CHRIST University, Pune–Lavasa**. I build websites, explore interaction design, and turn ideas into things you can use.
 
-<br />
+**[Explore my portfolio ↗︎](https://arnav-spy-portfolio.vercel.app)** &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/arnav-sharmaaa/) &nbsp; · &nbsp; [Email](mailto:arnav.devworks@gmail.com) &nbsp; · &nbsp; [Instagram](https://www.instagram.com/honey_eatshoney)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-SPY_ARCHIVES-DC2626?style=for-the-badge&logo=safari&logoColor=white&labelColor=111827)](https://arnav-spy-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NETWORK-E5A93C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://www.linkedin.com/in/arnav-sharmaaa/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-VISUAL_LOG-E11D48?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111827)](https://www.instagram.com/honey_eatshoney)
-[![Email](https://img.shields.io/badge/EMAIL-DIRECT_WIRE-991B1B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827)](mailto:arnav.devworks@gmail.com)
+<br>
 
-</div>
+## Selected work
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/main/assets/divider_fancyspy_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/main/assets/divider_fancyspy_light.svg">
-  <img alt="Tactical Divider" src="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/main/assets/divider_fancyspy_dark.svg" width="100%">
-</picture>
+**[AI1 Card ↗︎](https://ai1card.com/)** &nbsp; <sub>CLIENT WORK · DELIVERED</sub>\
+A product website introducing the AI1 Card offering and its prelaunch information.
 
-### 📋 Mission Dossier // The Code Diver
+**[HR VISTA 3.0 ↗︎](https://arnav-spy-portfolio.vercel.app)** &nbsp; <sub>WEB EXPERIENCE · IN PROGRESS</sub>\
+An event website connecting editions, people, and partners through an interactive story. Featured in my portfolio.
 
-Most digital surfaces feel like cold, rigid scaffolding. I dive deep into system complexity to surface with interfaces that feel fluid, intentional, and alive.
+**[Sparkle ↗︎](https://arnav-spy-portfolio.vercel.app)** &nbsp; <sub>AI WORKSPACE · IN DEVELOPMENT</sub>\
+A project-based assistant for conversations, research, and local organization, with an Android companion alpha. Featured in my portfolio.
 
-Known online as **FancySpy** (`arnav-honeyyyeater`), I combine the sharp precision of an Eva Unit-02 pilot with the relentless curiosity of an undercover code diver. By day, I study Computer Science and Data Science at CHRIST University (Pune-Lavasa), analyzing system architecture and distributed data patterns. By night, I craft high-velocity web surfaces that respect human attention and turn interaction into craft.
+**[CampusLink ↗︎](https://github.com/arnav-honeyyyeater/Christ-Bus-tracking-And-Care)** &nbsp; <sub>CAMPUS MOBILITY · PROTOTYPE</sub>\
+A student commute experience with timetables, simulated shuttle tracking, and care contacts.
 
-My baseline philosophy: websites should feel natural. Tactile like paper, responsive like muscle memory, and built with uncompromising engineering discipline.
+<details>
+<summary>More experiments &amp; small builds</summary>
 
----
+- **[Campus Connect](https://github.com/arnav-honeyyyeater/Campus-connect)** — a campus community prototype.
+- **[Laptop-to-Mobile Proxy](https://github.com/arnav-honeyyyeater/Laptop-s-Vpn-on-mobile-)** — a Python HTTP / HTTPS proxy experiment.
+- **[Web Technology Portfolio](https://github.com/arnav-honeyyyeater/Portfolio-webtech)** — an early portfolio built with HTML and CSS.
 
-### 🚀 Classified Operations // Selected Sorties
+</details>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-#### 🌸 Sparkle // AI Companion Prototype
-*Autonomous Workspace Assistant & Living State Machine*
+## Tools I reach for
 
-- **The Living Metaphor**: Treats the forward slash `/` prompt as an organic seed that blooms into five soft petals, reflecting real system lifecycle states (Waiting, Thinking, Reading, Writing, Home).
-- **Architecture**: Headless vector geometry computing Bezier curves with zero bloated dependencies. Shared coordinate fixtures guarantee pixel parity between Web (React/SVG) and Mobile (Android Canvas).
-- **Surface**: [Explore Live Prototype Showcase](https://arnav-spy-portfolio.vercel.app)
+**Interfaces** &nbsp; `TypeScript` `React` `Next.js` `Tailwind CSS`\
+**Behind the scenes** &nbsp; `Python` `Supabase` `PostgreSQL`\
+**Everyday craft** &nbsp; `Git` `SVG` `Responsive design`
 
-</td>
-<td width="50%" valign="top">
+I'm especially interested in expressive motion, readable interfaces, and the small details that make software feel natural.
 
-#### 🚍 CampusLink // Transit & Care System
-*Mobility & Student Safety Network for CHRIST Lavasa*
+<br>
 
-- **The Objective**: Solves daily mountain transit friction for university commuters with real route timetables, simulated vehicle positions, and one-tap emergency care contacts.
-- **Architecture**: Built with React, TypeScript, Supabase backend with Row-Level Security (RLS), and responsive Tailwind CSS layout systems.
-- **Repository**: [Inspect Repository](https://github.com/arnav-honeyyyeater/Christ-Bus-tracking-And-Care)
+## Have something in mind?
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💳 AI1 Card // Client Marketing Surface
-*High-Conversion Showcase for Pre-Launch Fintech*
-
-- **The Objective**: Hand-crafted editorial marketing experience for a pre-launch Singapore metal payment card, engineered for sub-100ms Largest Contentful Paint (LCP).
-- **Architecture**: Next.js, React, performance-budgeted asset pipelines, and friction-free waitlist onboarding with fluid responsive typography.
-- **Surface**: [View Client Showcase](https://arnav-spy-portfolio.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏛️ HR VISTA 3.0 // Flagship Event Portal
-*University Milestone Platform (In Active Development)*
-
-- **The Objective**: Dynamic multi-stage editorial platform orchestrating the annual flagship journey from Lavasa to Mumbai, featuring edition archives and speaker showcases.
-- **Architecture**: Modern component systems, event state management, and bespoke typography. Publicly credited on-site for development and maintenance.
-- **Surface**: [View Portfolio Feature](https://arnav-spy-portfolio.vercel.app)
-
-</td>
-</tr>
-</table>
-
-#### 🛠️ Public Utility Archives
-
-- **[Campus Connect](https://github.com/arnav-honeyyyeater/Campus-connect)**: University collaboration backend engineered with Next.js 15, Supabase, and PostgreSQL RLS.
-- **[Mobile VPN](https://github.com/arnav-honeyyyeater/Laptop-s-Vpn-on-mobile-)**: Lightweight Python network routing utility and proxy tunnel for cross-device testing.
-- **[Portfolio Webtech](https://github.com/arnav-honeyyyeater/Portfolio-webtech)**: Exploratory frontend laboratory and interactive experiment playground.
+A website, a frontend fix, or an interesting collaboration — **[let's talk ↗︎](mailto:arnav.devworks@gmail.com)**
 
 ---
 
-### ⚡ Tactical Arsenal // Systems & Instruments
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,supabase,postgres,git&theme=dark" alt="Tactical Skills Arsenal" />
-
-<br /><br />
-
-| Tactical Class | Instruments & Methodologies Deployed |
-| :--- | :--- |
-| **Front of the Glass** | TypeScript, React, Next.js, Tailwind CSS, SVG Geometry, Responsive Design |
-| **Behind the Glass** | Python, Supabase, PostgreSQL (Row-Level Security), REST APIs |
-| **Craft & Choreography** | 5-Stage Semantic State Machines, WCAG AA Accessibility, Sub-100ms LCP |
-| **Mission Standards** | Zero Slop, Zero Bloated Dependencies, Clean Modular Commits, Rapid Iteration |
-
-</div>
-
----
-
-### 📡 Secure Comms // Direct Transmission
-
-Whether you have an ambitious web project, need an urgent frontend fix, or want to discuss interaction architecture:
-
-- **Primary Dispatch**: [arnav.devworks@gmail.com](mailto:arnav.devworks@gmail.com)
-- **Academic Terminal**: [arnav.sharma@bsccsdsh.christuniversity.in](mailto:arnav.sharma@bsccsdsh.christuniversity.in)
-- **Professional Network**: [linkedin.com/in/arnav-sharmaaa](https://www.linkedin.com/in/arnav-sharmaaa/)
-- **Visual Journal**: [@honey_eatshoney](https://www.instagram.com/honey_eatshoney)
-- **Portfolio Showcase**: [arnav-spy-portfolio.vercel.app](https://arnav-spy-portfolio.vercel.app)
-
-<br />
-
-<div align="center">
-  <sub>EVA UNIT-02 // CODENAME: FANCYSPY • COORDINATES: PUNE, INDIA • ALL TRANSMISSIONS LOGGED</sub>
-</div>
+<sub>Pune, India · Enjoying the diving in DA code.</sub>

@@ -1,140 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="title desc">
+  <title id="title">FancySpy — Arnav Sharma</title>
+  <desc id="desc">An editorial nameplate in warm paper and charcoal, with a sculptural red folded slash. Creative development, with a little character.</desc>
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="lightBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" />
-      <stop offset="100%" stop-color="#F6F8FA" />
+    <linearGradient id="ribbon" x1="823" y1="328" x2="1045" y2="82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a92729"/>
+      <stop offset="0.48" stop-color="#e7473d"/>
+      <stop offset="1" stop-color="#f8795e"/>
     </linearGradient>
-
-    <!-- Ruby Telemetry Glow Gradient -->
-    <linearGradient id="rubyBar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#CF222E" />
-      <stop offset="70%" stop-color="#E23B2A" />
-      <stop offset="100%" stop-color="#9A6700" />
+    <linearGradient id="fold" x1="876" y1="76" x2="1000" y2="173" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff9b7c"/>
+      <stop offset="1" stop-color="#df3b35"/>
     </linearGradient>
-
-    <!-- Radar Grid Pattern (Light) -->
-    <pattern id="tacticalGridLight" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="12" cy="12" r="0.75" fill="#D0D7DE" />
-    </pattern>
   </defs>
-
-  <style>
-    .sans {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    }
-    .mono {
-      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    }
-  </style>
-
-  <!-- Outer Chamfered Cockpit Chassis -->
-  <path d="M 16 2 L 884 2 L 898 16 L 898 244 L 884 258 L 16 258 L 2 244 L 2 16 Z" 
-        fill="url(#lightBg)" stroke="#D0D7DE" stroke-width="1.5" />
-
-  <!-- Tactical Grid Texture Fill -->
-  <path d="M 16 2 L 884 2 L 898 16 L 898 244 L 884 258 L 16 258 L 2 244 L 2 16 Z" 
-        fill="url(#tacticalGridLight)" />
-
-  <!-- Corner Brackets (Ruby Crimson Framing) -->
-  <path d="M 6 30 L 6 8 L 30 8" fill="none" stroke="#CF222E" stroke-width="2.5" stroke-linecap="square" />
-  <path d="M 870 8 L 894 8 L 894 30" fill="none" stroke="#CF222E" stroke-width="2.5" stroke-linecap="square" />
-  <path d="M 6 230 L 6 252 L 30 252" fill="none" stroke="#CF222E" stroke-width="2.5" stroke-linecap="square" />
-  <path d="M 870 252 L 894 252 L 894 230" fill="none" stroke="#CF222E" stroke-width="2.5" stroke-linecap="square" />
-
-  <!-- Top Reticle Accent Line -->
-  <line x1="40" y1="8" x2="160" y2="8" stroke="#9A6700" stroke-width="1.5" />
-  <line x1="740" y1="252" x2="860" y2="252" stroke="#CF222E" stroke-width="1.5" />
-
-  <!-- ================= TOP TELEMETRY BAR ================= -->
-  <!-- Unit Badge -->
-  <rect x="36" y="24" width="70" height="18" rx="2" fill="#CF222E" />
-  <text class="mono" x="71" y="37" text-anchor="middle" font-size="10" font-weight="800" fill="#FFFFFF" letter-spacing="1.5">EVA-02</text>
-
-  <!-- Classification Label -->
-  <text class="mono" x="118" y="37" font-size="11" font-weight="600" fill="#57606A" letter-spacing="1.5">TACTICAL HUD // CODE DIVER DOSSIER</text>
-
-  <!-- Coordinate & Time Stamp -->
-  <text class="mono" x="864" y="37" text-anchor="end" font-size="11" font-weight="600" fill="#9A6700" letter-spacing="1">PUNE // UTC +05:30</text>
-
-  <!-- Divider Line -->
-  <line x1="36" y1="48" x2="864" y2="48" stroke="#D0D7DE" stroke-width="1" />
-  <line x1="36" y1="48" x2="200" y2="48" stroke="#CF222E" stroke-width="2" />
-  <rect x="200" y="46" width="5" height="5" fill="#9A6700" />
-
-  <!-- ================= CENTER IDENTITY REGION ================= -->
-  <!-- Left Side: FancySpy Brand & Narrative -->
-  <g transform="translate(36, 62)">
-    <!-- Sub-label -->
-    <text class="mono" x="0" y="16" font-size="11" font-weight="700" fill="#9A6700" letter-spacing="2">PILOT SPECIFICATION // OPERATIVE MONIKER</text>
-
-    <!-- Large Display Moniker -->
-    <text class="sans" x="0" y="60" font-size="44" font-weight="900" fill="#24292F" letter-spacing="-0.5">FANCYSPY</text>
-    
-    <!-- Accent Indicator Block -->
-    <rect x="250" y="27" width="6" height="36" rx="1" fill="#CF222E" />
-    <polygon points="262,45 270,40 270,50" fill="#9A6700" />
-
-    <!-- Energetic Status Quote -->
-    <text class="sans" x="0" y="94" font-size="18" font-weight="700" fill="#CF222E" letter-spacing="0.2">ENJOYING THE DIVING IN DA CODE!!</text>
-
-    <!-- Subtitle / Positioning -->
-    <text class="sans" x="0" y="118" font-size="13" font-weight="500" fill="#57606A">Creative Frontend Craft · Living Web Interfaces · CHRIST University CS &amp; Data Science</text>
+  <rect width="1200" height="420" rx="8" fill="#f5f1e9"/>
+  <path d="M60 62h30" stroke="#bc392f" stroke-width="3"/>
+  <text x="106" y="69" fill="#605b55" font-family="Consolas, monospace" font-size="18" letter-spacing="3">ARNAV SHARMA</text>
+  <text x="55" y="213" fill="#262624" font-family="Georgia, 'Times New Roman', serif" font-size="118" font-style="italic" letter-spacing="-6">FancySpy<tspan fill="#bc392f">.</tspan></text>
+  <text x="62" y="265" fill="#605b55" font-family="Arial, Helvetica, sans-serif" font-size="26" letter-spacing="0.2">Creative development, with a little character.</text>
+  <g fill="none" stroke="#d7cec2">
+    <circle cx="946" cy="201" r="140"/>
+    <ellipse cx="946" cy="201" rx="190" ry="72" transform="rotate(-42 946 201)"/>
+    <path d="M1132 61v20m-10-10h20M756 318v20m-10-10h20"/>
   </g>
-
-  <!-- Right Side: Tactical Telemetry Cockpit Panel -->
-  <g transform="translate(584, 62)">
-    <!-- Panel Chassis -->
-    <rect x="0" y="0" width="280" height="126" rx="4" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1" />
-    
-    <!-- Corner Chamfer Ribbon -->
-    <path d="M 264 0 L 280 16 L 280 0 Z" fill="#CF222E" />
-
-    <!-- Panel Header -->
-    <text class="mono" x="14" y="20" font-size="10" font-weight="700" fill="#57606A" letter-spacing="1">SYSTEM TELEMETRY // SPEC 02</text>
-    <line x1="14" y1="28" x2="266" y2="28" stroke="#D0D7DE" stroke-width="1" />
-
-    <!-- Row 1: Sync Rate -->
-    <text class="mono" x="14" y="48" font-size="11" fill="#24292F">SYNC RATE</text>
-    <text class="mono" x="266" y="48" text-anchor="end" font-size="11" font-weight="700" fill="#9A6700">100.0% [MAX]</text>
-    <!-- Meter Bar Track -->
-    <rect x="14" y="55" width="252" height="6" rx="2" fill="#EAEFF2" />
-    <rect x="14" y="55" width="252" height="6" rx="2" fill="url(#rubyBar)" />
-
-    <!-- Row 2: Status Indicator -->
-    <text class="mono" x="14" y="82" font-size="11" fill="#24292F">CURRENT DIVE</text>
-    <circle cx="198" cy="78" r="4" fill="#1A7F37" />
-    <text class="mono" x="266" y="82" text-anchor="end" font-size="11" font-weight="700" fill="#1A7F37">ACTIVE // ONLINE</text>
-
-    <!-- Row 3: Geo Coordinates -->
-    <text class="mono" x="14" y="106" font-size="10" fill="#57606A">SECTOR POS</text>
-    <text class="mono" x="266" y="106" text-anchor="end" font-size="10" font-weight="600" fill="#57606A">18.5204° N · 73.8567° E</text>
-  </g>
-
-  <!-- ================= BOTTOM TELEMETRY BAR ================= -->
-  <!-- Divider -->
-  <line x1="36" y1="206" x2="864" y2="206" stroke="#D0D7DE" stroke-width="1" />
-  <line x1="680" y1="206" x2="864" y2="206" stroke="#9A6700" stroke-width="2" />
-
-  <!-- Semantic State Choreography (Sparkle Engine Metaphor) -->
-  <g transform="translate(36, 222)">
-    <text class="mono" x="0" y="14" font-size="10" font-weight="700" fill="#57606A" letter-spacing="1">LIFECYCLE:</text>
-    <circle cx="82" cy="10" r="3" fill="#9A6700" />
-    <text class="mono" x="90" y="14" font-size="10" fill="#24292F">WAIT</text>
-
-    <circle cx="140" cy="10" r="3" fill="#9A6700" />
-    <text class="mono" x="148" y="14" font-size="10" fill="#24292F">THINK</text>
-
-    <circle cx="204" cy="10" r="3" fill="#9A6700" />
-    <text class="mono" x="212" y="14" font-size="10" fill="#24292F">READ</text>
-
-    <circle cx="262" cy="10" r="3" fill="#9A6700" />
-    <text class="mono" x="270" y="14" font-size="10" fill="#24292F">WRITE</text>
-
-    <circle cx="328" cy="10" r="3.5" fill="#CF222E" />
-    <text class="mono" x="337" y="14" font-size="10" font-weight="700" fill="#CF222E">SURFACE</text>
-  </g>
-
-  <!-- Telemetry Signature / Mode -->
-  <text class="mono" x="864" y="236" text-anchor="end" font-size="10" font-weight="600" fill="#57606A" letter-spacing="1.5">NERV PROTOCOL // ARNAVDEVWORKS</text>
+  <path d="M879 78h151l-92 78H787z" fill="url(#fold)"/>
+  <path d="M1030 78 874 328H764L920 78z" fill="url(#ribbon)"/>
+  <path d="M764 328h110l66-55H830z" fill="#a32e30"/>
+  <path d="m920 79-155 248" fill="none" stroke="#ffad8d" stroke-opacity="0.65"/>
+  <text x="1082" y="320" fill="#605b55" font-family="Consolas, monospace" font-size="20">02</text>
+  <path d="M62 356h1076" stroke="#d7cec2"/>
+  <text x="62" y="390" fill="#605b55" font-family="Consolas, monospace" font-size="16" letter-spacing="2">CODE / CURIOSITY / CRAFT</text>
+  <text x="1138" y="390" text-anchor="end" fill="#605b55" font-family="Consolas, monospace" font-size="16" letter-spacing="2">PUNE, INDIA</text>
 </svg>
