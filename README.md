@@ -1,7 +1,8 @@
+<!-- Banner assets are pinned to keep GitHub's image cache in sync with this layout. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/main/assets/header_fancyspy_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/main/assets/header_fancyspy_light.svg">
-  <img src="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/main/assets/header_fancyspy_light.svg" alt="FancySpy — Arnav Sharma. Creative development, with a little character." width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/3228d61fd73ab324b4e211ebaeda2fb9fb4ecd5f/assets/header_fancyspy_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/3228d61fd73ab324b4e211ebaeda2fb9fb4ecd5f/assets/header_fancyspy_light.svg">
+  <img src="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/3228d61fd73ab324b4e211ebaeda2fb9fb4ecd5f/assets/header_fancyspy_light.svg" alt="FancySpy — Arnav Sharma. Creative development, with a little character." width="1200">
 </picture>
 
 <br>
