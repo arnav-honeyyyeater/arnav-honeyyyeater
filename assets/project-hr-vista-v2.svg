@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="656" height="396" viewBox="-8 -8 656 396" role="img" aria-labelledby="title">
+<title id="title">HR VISTA 3.0 — Event website · In progress</title>
+<defs><radialGradient id="halo"><stop stop-color="#ed6c5b" stop-opacity=".20"/><stop offset="1" stop-color="#ed6c5b" stop-opacity="0"/></radialGradient><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4db93"/><stop offset=".45" stop-color="#a77a2d"/><stop offset="1" stop-color="#e0bc66"/></linearGradient></defs>
+<path d="M1 1h608l30 30v348H1Z" fill="#10131b" stroke="#33343d" stroke-width="2"/>
+<path d="M1 1h76M1 1v35M609 1l30 30" stroke="#ed5148" stroke-width="3" fill="none"/>
+<ellipse cx="350" cy="203" rx="268" ry="147" fill="url(#halo)"/>
+<text x="32" y="62" fill="#f7f2e9" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="40">HR VISTA 3.0</text>
+
+<g transform="translate(330 199)" fill="none">
+<ellipse rx="189" ry="61" transform="rotate(-18)" stroke="#723734"/>
+<circle r="91" fill="#20161d" stroke="#f17865" stroke-width="2"/>
+<ellipse rx="43" ry="91" stroke="#904b45"/><ellipse rx="74" ry="91" stroke="#653b3b"/><path d="M-91 0H91M-79-46H79M-79 46H79" stroke="#904b45"/>
+<path d="m-52-63 34 6 13 26 27 8 1 32-21 13-2 31-19 18-13-41-18-23 10-21-25-11Z" fill="#ed6c5b" fill-opacity=".45" stroke="#ff9d7b"/>
+<path d="m33-53 29 11 17 37-28-8-16 15-18-21Z" fill="#ed6c5b" fill-opacity=".35"/>
+<circle cx="-161" cy="34" r="7" fill="#ffab82"/><circle cx="161" cy="-34" r="5" fill="#e9675a"/>
+</g><path d="M104 126h56m-28-28v56M500 256h35m-17-17v35" stroke="#79413b"/>
+<path d="M32 324h576" stroke="#343640"/>
+<circle cx="42" cy="351" r="5" fill="#ed6c5b"/>
+<text x="60" y="358" fill="#c9cbd2" font-family="Arial,Helvetica,sans-serif" font-size="24">Event website · In progress</text>
+<path d="M576 350h28m-11-11 11 11-11 11" stroke="#ef675d" stroke-width="2" fill="none"/>
+</svg>

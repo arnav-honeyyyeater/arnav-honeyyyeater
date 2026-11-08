@@ -1,59 +1,51 @@
-<!-- Banner assets are pinned to keep GitHub's image cache in sync with this layout. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/3228d61fd73ab324b4e211ebaeda2fb9fb4ecd5f/assets/header_fancyspy_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/3228d61fd73ab324b4e211ebaeda2fb9fb4ecd5f/assets/header_fancyspy_light.svg">
-  <img src="https://raw.githubusercontent.com/arnav-honeyyyeater/arnav-honeyyyeater/3228d61fd73ab324b4e211ebaeda2fb9fb4ecd5f/assets/header_fancyspy_light.svg" alt="FancySpy — Arnav Sharma. Creative development, with a little character." width="1200">
-</picture>
+<p align="center">
+  <img src="./assets/eva-banner-v2.webp" alt="FancySpy — Arnav Sharma, with cinematic red EVA-inspired mecha artwork." width="1200">
+</p>
 
-<br>
+## Arnav Sharma
 
-### Thoughtful interfaces. A little personality.
+Computer Science & Data Science student at **CHRIST University, Pune–Lavasa**. I work on websites, interactive interfaces, and applications for everyday problems.
 
-I'm **Arnav Sharma**, a Computer Science & Data Science student at **CHRIST University, Pune–Lavasa**. I build websites, explore interaction design, and turn ideas into things you can use.
+<p>
+  <b><a href="https://arnav-spy-portfolio.vercel.app">Portfolio ↗︎</a></b>
+  &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.linkedin.com/in/arnav-sharmaaa/">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp; <a href="mailto:arnav.devworks@gmail.com">Email</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.instagram.com/honey_eatshoney">Instagram</a>
+</p>
 
-**[Explore my portfolio ↗︎](https://arnav-spy-portfolio.vercel.app)** &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/arnav-sharmaaa/) &nbsp; · &nbsp; [Email](mailto:arnav.devworks@gmail.com) &nbsp; · &nbsp; [Instagram](https://www.instagram.com/honey_eatshoney)
+## Selected projects
 
-<br>
-
-## Selected work
-
-**[AI1 Card ↗︎](https://ai1card.com/)** &nbsp; <sub>CLIENT WORK · DELIVERED</sub>\
-A product website introducing the AI1 Card offering and its prelaunch information.
-
-**[HR VISTA 3.0 ↗︎](https://arnav-spy-portfolio.vercel.app)** &nbsp; <sub>WEB EXPERIENCE · IN PROGRESS</sub>\
-An event website connecting editions, people, and partners through an interactive story. Featured in my portfolio.
-
-**[Sparkle ↗︎](https://arnav-spy-portfolio.vercel.app)** &nbsp; <sub>AI WORKSPACE · IN DEVELOPMENT</sub>\
-A project-based assistant for conversations, research, and local organization, with an Android companion alpha. Featured in my portfolio.
-
-**[CampusLink ↗︎](https://github.com/arnav-honeyyyeater/Christ-Bus-tracking-And-Care)** &nbsp; <sub>CAMPUS MOBILITY · PROTOTYPE</sub>\
-A student commute experience with timetables, simulated shuttle tracking, and care contacts.
+<p align="center">
+  <a href="https://ai1card.com/"><img src="./assets/project-ai1-v2.svg" width="410" alt="AI1 Card — delivered client website presenting the product and prelaunch information. Visit the website."></a>
+  <a href="https://arnav-spy-portfolio.vercel.app"><img src="./assets/project-hr-vista-v2.svg" width="410" alt="HR VISTA 3.0 — event website connecting editions, people, and partners. In progress. View my portfolio."></a>
+  <a href="https://arnav-spy-portfolio.vercel.app"><img src="./assets/project-sparkle-v2.svg" width="410" alt="Sparkle — a project-based AI assistant with an Android companion alpha. In development. View my portfolio."></a>
+  <a href="https://github.com/arnav-honeyyyeater/Christ-Bus-tracking-And-Care"><img src="./assets/project-campuslink-v2.svg" width="410" alt="CampusLink — student commute prototype with timetables, simulated shuttle tracking, and care contacts. View the repository."></a>
+</p>
 
 <details>
-<summary>More experiments &amp; small builds</summary>
+<summary><b>About these projects</b></summary>
 
-- **[Campus Connect](https://github.com/arnav-honeyyyeater/Campus-connect)** — a campus community prototype.
-- **[Laptop-to-Mobile Proxy](https://github.com/arnav-honeyyyeater/Laptop-s-Vpn-on-mobile-)** — a Python HTTP / HTTPS proxy experiment.
-- **[Web Technology Portfolio](https://github.com/arnav-honeyyyeater/Portfolio-webtech)** — an early portfolio built with HTML and CSS.
+- **AI1 Card** — a delivered freelance website introducing the product and its prelaunch information.
+- **HR VISTA 3.0** — an event website bringing together editions, people, and partners. In progress.
+- **Sparkle** — an assistant for project-based conversations, research, and local organization, with an Android companion alpha. In development.
+- **CampusLink** — a student commute prototype with timetables, simulated shuttle tracking, and care contacts.
 
 </details>
 
-<br>
+## Technologies
 
-## Tools I reach for
+**Frontend** &nbsp; `TypeScript` `React` `Next.js` `Tailwind CSS`
 
-**Interfaces** &nbsp; `TypeScript` `React` `Next.js` `Tailwind CSS`\
-**Behind the scenes** &nbsp; `Python` `Supabase` `PostgreSQL`\
-**Everyday craft** &nbsp; `Git` `SVG` `Responsive design`
+**Backend & data** &nbsp; `Python` `Supabase` `PostgreSQL`
 
-I'm especially interested in expressive motion, readable interfaces, and the small details that make software feel natural.
+**Tools** &nbsp; `Git` `SVG`
 
-<br>
+## More repositories
 
-## Have something in mind?
-
-A website, a frontend fix, or an interesting collaboration — **[let's talk ↗︎](mailto:arnav.devworks@gmail.com)**
+- [**Campus Connect**](https://github.com/arnav-honeyyyeater/Campus-connect) — campus community prototype.
+- [**Laptop-to-Mobile Proxy**](https://github.com/arnav-honeyyyeater/Laptop-s-Vpn-on-mobile-) — Python HTTP / HTTPS proxy experiment.
+- [**Web Technology Portfolio**](https://github.com/arnav-honeyyyeater/Portfolio-webtech) — an early HTML and CSS portfolio.
 
 ---
 
-<sub>Pune, India · Enjoying the diving in DA code.</sub>
+**Contact:** [arnav.devworks@gmail.com](mailto:arnav.devworks@gmail.com) &nbsp; · &nbsp; Pune, India

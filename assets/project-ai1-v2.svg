@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="656" height="396" viewBox="-8 -8 656 396" role="img" aria-labelledby="title">
+<title id="title">AI1 Card — Client website · Delivered</title>
+<defs><radialGradient id="halo"><stop stop-color="#dbb767" stop-opacity=".20"/><stop offset="1" stop-color="#dbb767" stop-opacity="0"/></radialGradient><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4db93"/><stop offset=".45" stop-color="#a77a2d"/><stop offset="1" stop-color="#e0bc66"/></linearGradient></defs>
+<path d="M1 1h608l30 30v348H1Z" fill="#10131b" stroke="#33343d" stroke-width="2"/>
+<path d="M1 1h76M1 1v35M609 1l30 30" stroke="#ed5148" stroke-width="3" fill="none"/>
+<ellipse cx="350" cy="203" rx="268" ry="147" fill="url(#halo)"/>
+<text x="32" y="62" fill="#f7f2e9" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="40">AI1 Card</text>
+
+<g fill="none" stroke="#554b3c"><path d="M72 214h93m-61 20h61M494 151h77m-77 20h47"/><ellipse cx="326" cy="228" rx="199" ry="63"/></g>
+<g transform="translate(168 104) rotate(-8 156 94)">
+<rect x="0" y="8" width="314" height="188" rx="16" fill="#05070c" opacity=".7"/>
+<rect width="314" height="188" rx="16" fill="url(#metal)" stroke="#f1d28e" stroke-width="2"/>
+<path d="M16 3h282" stroke="#fff0c3" stroke-opacity=".7"/><rect x="28" y="58" width="48" height="37" rx="7" fill="#9e792f" stroke="#ead290"/>
+<path d="M44 58v37m17-37v37M28 76h48" stroke="#dcc17d"/><text x="274" y="151" text-anchor="end" fill="#352911" font-family="Arial,sans-serif" font-size="52" font-weight="700">AI1</text>
+<path d="M29 151h40m10 0h40" stroke="#7e5f25" stroke-width="4"/></g>
+<path d="M32 324h576" stroke="#343640"/>
+<circle cx="42" cy="351" r="5" fill="#dbb767"/>
+<text x="60" y="358" fill="#c9cbd2" font-family="Arial,Helvetica,sans-serif" font-size="24">Client website · Delivered</text>
+<path d="M576 350h28m-11-11 11 11-11 11" stroke="#ef675d" stroke-width="2" fill="none"/>
+</svg>
