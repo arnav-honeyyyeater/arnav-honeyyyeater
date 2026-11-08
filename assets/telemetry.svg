@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 96" width="100%" height="100%">
+  <defs>
+    <linearGradient id="hudBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14" />
+      <stop offset="100%" stop-color="#0d1526" />
+    </linearGradient>
+    <linearGradient id="hudBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="50%" stop-color="#334155" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono {
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+    }
+    .sans {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    }
+  </style>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="846" height="92" rx="10" fill="url(#hudBg)" stroke="url(#hudBorder)" stroke-width="1.2" />
+
+  <!-- 4 Columns Grid -->
+  <!-- Col 1: Systems Focus -->
+  <g transform="translate(24, 18)">
+    <text class="mono" x="0" y="12" font-size="9.5" fill="#10b981" font-weight="600" letter-spacing="1">// 01 SYSTEMS FOCUS</text>
+    <text class="sans" x="0" y="34" font-size="13" fill="#f1f5f9" font-weight="700">Applied AI &amp; Agents</text>
+    <text class="sans" x="0" y="52" font-size="11" fill="#94a3b8">Semantic state choreography &amp; LLMs</text>
+  </g>
+
+  <!-- Divider 1 -->
+  <line x1="228" y1="16" x2="228" y2="80" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 3" />
+
+  <!-- Col 2: Core Stack -->
+  <g transform="translate(248, 18)">
+    <text class="mono" x="0" y="12" font-size="9.5" fill="#38bdf8" font-weight="600" letter-spacing="1">// 02 PRODUCTION STACK</text>
+    <text class="sans" x="0" y="34" font-size="13" fill="#f1f5f9" font-weight="700">Next.js 15 &amp; Supabase</text>
+    <text class="sans" x="0" y="52" font-size="11" fill="#94a3b8">TypeScript, Tailwind v4, Postgres RLS</text>
+  </g>
+
+  <!-- Divider 2 -->
+  <line x1="452" y1="16" x2="452" y2="80" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 3" />
+
+  <!-- Col 3: Real Builds -->
+  <g transform="translate(472, 18)">
+    <text class="mono" x="0" y="12" font-size="9.5" fill="#a855f7" font-weight="600" letter-spacing="1">// 03 PROVEN BUILDS</text>
+    <text class="sans" x="0" y="34" font-size="13" fill="#f1f5f9" font-weight="700">Sparkle · CampusLink</text>
+    <text class="sans" x="0" y="52" font-size="11" fill="#94a3b8">Campus Connect, Fintech Web, VPN</text>
+  </g>
+
+  <!-- Divider 3 -->
+  <line x1="660" y1="16" x2="660" y2="80" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 3" />
+
+  <!-- Col 4: Dispatch -->
+  <g transform="translate(680, 18)">
+    <text class="mono" x="0" y="12" font-size="9.5" fill="#fbbf24" font-weight="600" letter-spacing="1">// 04 DISPATCH STATUS</text>
+    <text class="sans" x="0" y="34" font-size="13" fill="#f1f5f9" font-weight="700">Open for Web Work</text>
+    <text class="sans" x="0" y="52" font-size="11" fill="#94a3b8">Fast turnaround · One-time builds</text>
+  </g>
+</svg>
