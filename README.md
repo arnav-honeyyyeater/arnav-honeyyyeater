@@ -23,9 +23,9 @@ An event website bringing together editions, speakers and partners. **In develop
 
 ## Working with
 
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
-**Backend & data:** Python, Supabase, PostgreSQL  
-**Tools:** Git
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Backend & data:** Python, Supabase, PostgreSQL
+- **Tools:** Git
 
 ## Small website projects
 
